@@ -1,1 +1,3 @@
 # Mars-Rover_Mars-Society
+
+BRAC University (BRACU) has participated in the University Rover Challenge (URC), a robotics competition for university level students organized by the Mars Society to design and build a rover that would be of use to early explorers on Mars. BRACU has designed and developed a full functional next-generation mars rover, Mongol Tori, which can be operated in the extreme, hostile condition expected in planet Mars. Mongol Tori is embedded with both autonomous and manual controlled features which is also capable of conducting scientific tasks to identify the characteristics of soils and weathering in the mars environment.
